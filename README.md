@@ -1,7 +1,7 @@
 # Work-Day-Sceduler
 
 ## Description
-This is a modified starter code that creates an application that enables users to generate random passwords based on criteria that they’ve selected.
+This is a modified starter code that creates a simple calendar application that allows a user to save events for each hour of the day.
 
 ## Links
 
